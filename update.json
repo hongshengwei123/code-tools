@@ -1,12 +1,12 @@
 {
-    "version":  "2.2.1",
-    "buildId":  "577d8018-b8c2-462a-a48c-7f14057817db",
-    "buildUrl":  "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/577d8018-b8c2-462a-a48c-7f14057817db",
+    "version":  "2.2.2",
+    "buildId":  "79ab867f-f61f-4d7c-b659-571c0dac751a",
+    "buildUrl":  "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/79ab867f-f61f-4d7c-b659-571c0dac751a",
     "apkUrl":  "",
     "notes":  [
-                  "把 update.json 同步到 UPDATE_MANIFEST_URL 对应托管",
-                  "远程版本更新清单改为可公网拉取",
-                  "发版脚本自动推送更新清单到 GitHub",
-                  "优化兼容性与用户体验"
+                  "安装包名调整为 com.yourname.codetools",
+                  "改为正式签名打包，减轻未知签名来源拦截",
+                  "优化应用内安装调起方式，减少经浏览器安装",
+                  "修复若干安装体验问题"
               ]
 }
