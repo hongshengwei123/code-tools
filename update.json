@@ -1,16 +1,12 @@
 {
-    "buildId":  "94506e79-6116-4e0c-b27a-eb4f61a9ce80",
-    "buildUrl":  "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/94506e79-6116-4e0c-b27a-eb4f61a9ce80",
+    "version":  "2.2.1",
+    "buildId":  "577d8018-b8c2-462a-a48c-7f14057817db",
+    "buildUrl":  "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/577d8018-b8c2-462a-a48c-7f14057817db",
     "apkUrl":  "",
-    "version":  "2.0.1",
     "notes":  [
-                  "【首页界面】右上角以及下面的语音识别真实接入",
-                  "【我的界面】增值服务 · 卡片式 VIP",
-                  "【VIP界面】新增 VIP 真实显示等级为 0-9 级",
-                  "【首页界面】部分功能限制需开通 VIP",
-                  "【版本更新界面】点击版本更新支持真实远程更新",
-                  "优化兼容性",
-                  "优化用户体验",
-                  "修复一些问题"
+                  "把 update.json 同步到 UPDATE_MANIFEST_URL 对应托管",
+                  "远程版本更新清单改为可公网拉取",
+                  "发版脚本自动推送更新清单到 GitHub",
+                  "优化兼容性与用户体验"
               ]
 }
