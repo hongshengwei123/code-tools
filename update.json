@@ -1,9 +1,11 @@
 {
-  "version": "2.2.9",
-  "buildId": "741822b6-62e8-4d13-b645-94a818137fb9",
-  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/741822b6-62e8-4d13-b645-94a818137fb9",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.2.9/code-tools-2.2.9.apk",
+  "version": "2.3.0",
+  "buildId": "0d59ea8d-7a01-448a-8b57-5261c4004b78",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/0d59ea8d-7a01-448a-8b57-5261c4004b78",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.3.0/code-tools-2.3.0.apk",
   "notes": [
-    "修复 打开软件会闪退问题"
+    "【分类界面】优化 侧边栏",
+    "【登录界面】进行优化",
+    "【注册界面】进行优化"
   ]
 }
