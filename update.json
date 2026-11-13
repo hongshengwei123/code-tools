@@ -1,11 +1,20 @@
 {
-  "version": "2.3.0",
-  "buildId": "0d59ea8d-7a01-448a-8b57-5261c4004b78",
-  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/0d59ea8d-7a01-448a-8b57-5261c4004b78",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.3.0/code-tools-2.3.0.apk",
+  "version": "2.3.1",
+  "buildId": "90218de0-8042-4e65-a928-be1fc68b68b1",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/90218de0-8042-4e65-a928-be1fc68b68b1",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.3.1/code-tools-2.3.1.apk",
   "notes": [
-    "【分类界面】优化 侧边栏",
-    "【登录界面】进行优化",
-    "【注册界面】进行优化"
+    "【服务界面】新增 VIP界面",
+    "【VIP界面】使用卡密激活后名字旁边会有VIP图标",
+    "【底部导航栏】分类优化",
+    "【我的界面】在登录成功头像名字下面系统随机获取ID号",
+    "【设置界面】移除 功能改进建议/帮助与反馈/个人信息与权限",
+    "【设置界面】新增 隐私政策",
+    "优化 登录界面/注册界面",
+    "当首次打开软件时必须弹出用户协议是否同意",
+    "在登录时必须勾选用户协议或隐私政策没有勾选不能登录",
+    "更新 用户协议或隐私政策",
+    "优化用户体验",
+    "修复bug"
   ]
 }
