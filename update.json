@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.4",
-    "buildId":  "76e2b0de-9d88-4294-91e2-838336348434",
-    "buildUrl":  "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/76e2b0de-9d88-4294-91e2-838336348434",
-    "apkUrl":  "https://github.com/hongshengwei123/code-tools/releases/download/v2.2.4/code-tools-2.2.4.apk",
-    "notes":  [
-                  "【我的】-【服务】清除 增值服务",
-                  "【分类】新增 侧边栏",
-                  "全面优化"
-              ]
+  "version": "2.2.5",
+  "buildId": "ccacaf59-4e5e-4a7e-8cd8-94ea60c61639",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/ccacaf59-4e5e-4a7e-8cd8-94ea60c61639",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.2.5/code-tools-2.2.5.apk",
+  "notes": [
+    "【登录界面】注册下面新增QQ邮箱图标登录必须真实",
+    "【kail命令界面】进行优化",
+    "修复 打开软件会闪退问题"
+  ]
 }
