@@ -1,9 +1,9 @@
 {
-    "version":  "2.2.8",
-    "buildId":  "ee3cb72f-e318-422d-81ae-a9cd806d1d88",
-    "buildUrl":  "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/ee3cb72f-e318-422d-81ae-a9cd806d1d88",
-    "apkUrl":  "https://github.com/hongshengwei123/code-tools/releases/download/v2.2.8/code-tools-2.2.8.apk",
-    "notes":  [
-                  "修复 打开软件会闪退问题"
-              ]
+  "version": "2.2.9",
+  "buildId": "741822b6-62e8-4d13-b645-94a818137fb9",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/741822b6-62e8-4d13-b645-94a818137fb9",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.2.9/code-tools-2.2.9.apk",
+  "notes": [
+    "修复 打开软件会闪退问题"
+  ]
 }
