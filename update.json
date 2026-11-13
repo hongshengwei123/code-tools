@@ -1,20 +1,15 @@
 {
-  "version": "2.3.1",
-  "buildId": "90218de0-8042-4e65-a928-be1fc68b68b1",
-  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/90218de0-8042-4e65-a928-be1fc68b68b1",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.3.1/code-tools-2.3.1.apk",
+  "version": "2.3.2",
+  "buildId": "63d0f9f0-cb95-4bc0-a3e8-9a18bb1d2ed5",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/63d0f9f0-cb95-4bc0-a3e8-9a18bb1d2ed5",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.3.2/code-tools-2.3.2.apk",
   "notes": [
-    "【服务界面】新增 VIP界面",
-    "【VIP界面】使用卡密激活后名字旁边会有VIP图标",
-    "【底部导航栏】分类优化",
-    "【我的界面】在登录成功头像名字下面系统随机获取ID号",
-    "【设置界面】移除 功能改进建议/帮助与反馈/个人信息与权限",
-    "【设置界面】新增 隐私政策",
-    "优化 登录界面/注册界面",
-    "当首次打开软件时必须弹出用户协议是否同意",
-    "在登录时必须勾选用户协议或隐私政策没有勾选不能登录",
-    "更新 用户协议或隐私政策",
-    "优化用户体验",
-    "修复bug"
+    "【底部导航栏】优化 分类界面侧边栏",
+    "卡密类型为：DAY-8D6B-8518-9A03",
+    "卡密输入框里面 如删除",
+    "我的界面名字旁边激活VIP没有图标",
+    "删除 等级权益",
+    "优化 用户体验或产品体验",
+    "远程更新是在软件内下载新版本不是跳转网页下载"
   ]
 }
