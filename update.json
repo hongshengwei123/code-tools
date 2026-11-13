@@ -1,11 +1,11 @@
 {
-    "version":  "2.2.3",
-    "buildId":  "28636f4f-f282-41e1-8c50-fefc1b65a5c1",
-    "buildUrl":  "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/28636f4f-f282-41e1-8c50-fefc1b65a5c1",
+    "version":  "2.2.4",
+    "buildId":  "76e2b0de-9d88-4294-91e2-838336348434",
+    "buildUrl":  "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/76e2b0de-9d88-4294-91e2-838336348434",
     "apkUrl":  "",
     "notes":  [
-                  "【我的界面】清除 VIP卡片式",
-                  "【我的界面】新增 服务",
-                  "修复一些问题"
+                  "【我的】-【服务】清除 增值服务",
+                  "【分类】新增 侧边栏",
+                  "全面优化"
               ]
 }
