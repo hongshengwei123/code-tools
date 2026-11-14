@@ -1,9 +1,7 @@
 {
-  "version": "2.3.4",
-  "buildId": "ac67ce9f-9942-44ab-88ac-5a601174cccf",
-  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/ac67ce9f-9942-44ab-88ac-5a601174cccf",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.3.4/code-tools-2.3.4.apk",
-  "notes": [
-    "全部界面美化一下"
-  ]
+  "version": "1.0.0",
+  "buildId": "e7ae47d3-fa69-4370-9df3-b04e8aaabb4f",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/e7ae47d3-fa69-4370-9df3-b04e8aaabb4f",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.0.0/code-tools-1.0.0.apk",
+  "notes": []
 }
