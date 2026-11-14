@@ -1,12 +1,10 @@
 {
-  "version": "1.3.7",
+  "version": "1.3.8",
   "buildId": "",
   "buildUrl": "",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.3.7/code-tools-1.3.7.apk",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.3.8/code-tools-1.3.8.apk",
   "notes": [
-    "购买卡密删除我已完成支付",
-    "支付返回后系统校验是否成功支付，未支付不发卡密",
-    "卡密激活输入框为空，卡密由系统自动发到登录邮箱",
-    "修复版本更新无法在应用内下载新版本"
+    "严格修复打开支付宝/微信支付跳转",
+    "未支付成功不再弹出卡密激活、不发放卡密"
   ]
 }
