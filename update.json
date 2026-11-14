@@ -1,13 +1,20 @@
 {
-  "version": "1.2.0",
-  "buildId": "314cb6cf-5be9-45c1-bd69-4d143a97faaa",
-  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/314cb6cf-5be9-45c1-bd69-4d143a97faaa",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.2.0/code-tools-1.2.0.apk",
+  "version": "1.2.1",
+  "buildId": "9997b64d-f86e-4787-9201-c3142575edfd",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/9997b64d-f86e-4787-9201-c3142575edfd",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.2.1/code-tools-1.2.1.apk",
   "notes": [
-    "客服中心修改为聊天窗口",
-    "存储空间本地数据无法清理",
-    "功能介绍没有显示更新版本顶部显示功能介绍",
-    "kali命令全部改版",
-    "提示全部改版"
+    "增值服务修改为订阅",
+    "订阅自行选择套餐为免费/专业/高级",
+    "免费只能使用普通功能",
+    "专业限制功能包含：kali命令功能必须需要购买卡密激活后才能解锁kali命令功能",
+    "高级限制功能包含：网页下载视频功能/短视频去水印功能必须购买卡密激活才能解锁",
+    "服务彻底移除客服中心",
+    "VIP图标全部改版",
+    "全部工具新增网页下载视频功能",
+    "没有真实接入离线推送版本更新以及其他消息",
+    "个人资料全面改版",
+    "短视频去水印功能平台包含：抖音、快手、哔哩哔哩可通过分享链接进行去水印并下载完成自动到手机相册",
+    "版本更新真实当下载新版本返回后在后台可以继续下载新版本这样不用一直停留当前界面"
   ]
 }
