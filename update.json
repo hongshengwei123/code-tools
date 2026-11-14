@@ -1,7 +1,28 @@
 {
-  "version": "1.0.0",
-  "buildId": "e7ae47d3-fa69-4370-9df3-b04e8aaabb4f",
-  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/e7ae47d3-fa69-4370-9df3-b04e8aaabb4f",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.0.0/code-tools-1.0.0.apk",
-  "notes": []
+  "version": "1.1.0",
+  "buildId": "22606209-4b05-4c5e-948d-1f6b655f3d3b",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/22606209-4b05-4c5e-948d-1f6b655f3d3b",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.1.0/code-tools-1.1.0.apk",
+  "notes": [
+    "首页全面改版",
+    "全部工具全面改版",
+    "底部导航栏全面改版",
+    "我的卡片式全面改版",
+    "登录/注册全面改版",
+    "设置新增个人信息采集清单",
+    "设置新增个人信息共享清单",
+    "关于新增软件许可使用协议",
+    "关于移除投诉",
+    "设置新增代码工具公约",
+    "代码工具公约新增卡片式违规记录",
+    "代码工具公约新增卡片式最新公告",
+    "代码工具公约新增意见征集右边点击查看全部",
+    "代码工具公约新增卡片式规则必读",
+    "进行优化一些用户体验",
+    "修复一些功能无法使用问题",
+    "修复打不开软件问题",
+    "真实接入离线推送",
+    "版本更新真实接入离线推送",
+    "版本更新全面改版"
+  ]
 }
