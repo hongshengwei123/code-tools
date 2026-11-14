@@ -1,15 +1,9 @@
 {
-  "version": "2.3.2",
-  "buildId": "63d0f9f0-cb95-4bc0-a3e8-9a18bb1d2ed5",
-  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/63d0f9f0-cb95-4bc0-a3e8-9a18bb1d2ed5",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.3.2/code-tools-2.3.2.apk",
+  "version": "2.3.3",
+  "buildId": "f9e32568-7eed-42e0-ab38-3c738aefd04f",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/f9e32568-7eed-42e0-ab38-3c738aefd04f",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v2.3.3/code-tools-2.3.3.apk",
   "notes": [
-    "【底部导航栏】优化 分类界面侧边栏",
-    "卡密类型为：DAY-8D6B-8518-9A03",
-    "卡密输入框里面 如删除",
-    "我的界面名字旁边激活VIP没有图标",
-    "删除 等级权益",
-    "优化 用户体验或产品体验",
-    "远程更新是在软件内下载新版本不是跳转网页下载"
+    "优化 所有提示"
   ]
 }
