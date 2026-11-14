@@ -1,11 +1,12 @@
 {
-  "version": "1.3.0",
-  "buildId": "e4e28a9e-2543-40b4-9a75-a9b79bb10cff",
-  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/e4e28a9e-2543-40b4-9a75-a9b79bb10cff",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.3.0/code-tools-1.3.0.apk",
+  "version": "1.3.1",
+  "buildId": "418e61c3-1610-4512-9685-12def9bd9c00",
+  "buildUrl": "https://expo.dev/accounts/hongshengweiss-team/projects/code-tools/builds/418e61c3-1610-4512-9685-12def9bd9c00",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.3.1/code-tools-1.3.1.apk",
   "notes": [
-    "kali命令全面改版",
-    "首页本地工具箱移除",
-    "客服中心聊天窗口全面改版"
+    "订阅功能全面改版",
+    "我的专业图标修改为会员图标",
+    "进行了优化用户体验",
+    "修复一些已知问题"
   ]
 }
