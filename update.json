@@ -1,10 +1,11 @@
 {
-  "version": "1.3.8",
+  "version": "1.3.9",
   "buildId": "",
   "buildUrl": "",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.3.8/code-tools-1.3.8.apk",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.3.9/code-tools-1.3.9.apk",
   "notes": [
-    "严格修复打开支付宝/微信支付跳转",
-    "未支付成功不再弹出卡密激活、不发放卡密"
+    "修复选择支付方式打开支付宝支付跳转到支付宝没有弹出支付",
+    "修复选择支付方式打开微信支付跳转到微信没有弹出支付",
+    "修复一些已知问题"
   ]
 }
