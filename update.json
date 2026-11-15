@@ -1,11 +1,13 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "buildId": "",
   "buildUrl": "",
-  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.4.0/code-tools-1.4.0.apk",
+  "apkUrl": "https://github.com/hongshengwei123/code-tools/releases/download/v1.4.1/code-tools-1.4.1.apk",
   "notes": [
-    "选择支付方式新增银行卡",
-    "修复选择支付方式跳转不了微信支付页",
-    "修复版本更新离线推送没有实现"
+    "选择支付方式新增钱包",
+    "服务新增钱包功能",
+    "钱包充值金额为 10 元 / 20 元 / 30 元",
+    "钱包金额不足时支付方式不可选",
+    "修复补丁"
   ]
 }
